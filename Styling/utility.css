@@ -1,0 +1,22 @@
+.x-flex {
+    display: flex;
+    flex-direction: row;
+}
+
+.y-flex {
+    display: flex;
+    flex-direction: column;
+}
+
+.center {
+    justify-content: center;
+    align-items: center;
+}
+
+.m1 {
+    margin: 2px;
+}
+
+.m2 {
+    margin: 4px;
+}

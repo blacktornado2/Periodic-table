@@ -1,5 +1,5 @@
 @charset "utf-8";
-	.image9
+.image9
 {
 	background-image : url(../Media/image9.png);
 	background-repeat : no-repeat;
@@ -213,8 +213,8 @@
 {
 	background-image : url(../Media/image2.png);
 	background-repeat : no-repeat;
-	width : 47px;
-	height : 20px;
+	width : 97px;
+	height : 97px;
 }
 .image38
 {
@@ -227,8 +227,8 @@
 {
 	background-image : url(../Media/image4.png);
 	background-repeat : no-repeat;
-	width : 20px;
-	height : 20px;
+	width : 97px;
+	height : 97px;
 }
 .image10
 {
