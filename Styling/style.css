@@ -3,66 +3,83 @@
     padding: 0;
 }
 
+/* .group-title {
+    
+} */
+
+.groups-heading {
+    margin-left: 25px;
+}
+
 .group2 {
-    margin-top: 97px;
+    margin-top: 102px;
 }
 
 .group3 {
-    margin-top: 291px
+    margin-top: 304px
 }
 
 .group4 {
-    margin-top: 291px
+    margin-top: 304px
 }
 
 .group5 {
-    margin-top: 291px
+    margin-top: 304px
 }
 
 .group6 {
-    margin-top: 291px
+    margin-top: 304px
 }
 
 .group7 {
-    margin-top: 291px
+    margin-top: 304px
 }
 
 .group8 {
-    margin-top: 291px
+    margin-top: 304px
 }
 
 .group9 {
-    margin-top: 291px
+    margin-top: 304px
 }
 
 .group10 {
-    margin-top: 291px
+    margin-top: 304px
 }
 
 .group11 {
-    margin-top: 291px
+    margin-top: 304px
 }
 
 .group12 {
-    margin-top: 291px
+    margin-top: 304px
 }
 
 .group13 {
-    margin-top: 97px
+    margin-top: 102px
 }
 
 .group14 {
-    margin-top: 97px
+    margin-top: 102px
 }
 
 .group15 {
-    margin-top: 97px
+    margin-top: 102px
 }
 
 .group16 {
-    margin-top: 97px
+    margin-top: 102px
 }
 
 .group17 {
-    margin-top: 97px
+    margin-top: 102px
+}
+
+.periods-heading {
+    margin-top: -25px;
+}
+
+.lower-periodic-table {
+    margin-top: 50px;
+    margin-left: -40px;
 }

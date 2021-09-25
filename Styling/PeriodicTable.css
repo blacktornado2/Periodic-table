@@ -1129,11 +1129,18 @@
 }
 .st1
 {
-	background : #F4939B;
-	background : rgba(244, 147, 155, 1);
+	background : rgb(250, 207, 246);
 	width : 97px;
 	height : 97px;
 }
+
+.myColor
+{
+	background : rgb(246, 224, 244);
+	width : 97px;
+	height : 97px;
+}
+
 .st2
 {
 	background : #F4939B;
