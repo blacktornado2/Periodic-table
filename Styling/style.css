@@ -1,11 +1,99 @@
+
 * {
     margin: 0;
     padding: 0;
 }
 
-/* .group-title {
-    
-} */
+.upper-content {
+    height: 40vh;
+    width: 80vw;
+}
+
+.metals-heading {
+    margin-bottom: 30px;
+}
+.metals-items {
+    height: 30px;
+    width: 200px;
+    margin: 2px 0px;
+}
+
+.alkali-metals {
+    background-color: rgb(232,131,190);
+}
+
+.alkali-earth-metals {
+    background-color: rgb(118,178,225);
+}
+
+.transition-metals {
+    background-color: rgb(244,147,155);
+}
+
+.lanthanides {
+    background-color: rgb(245,201,118);
+}
+
+.actinides {
+    background-color: rgb(179,174,158);
+}
+
+
+.post-transition-metals {
+    margin-left: 40px;
+}
+
+.post-transition-metals-heading {
+    margin-bottom: 30px;
+}
+
+.box1 {
+    height: 170px;
+    width: 400px;
+    background-color: rgb(187,169,220);
+}
+
+.metalloids {
+    margin-left: 40px;
+}
+
+.metalloids-heading {
+    margin-bottom: 30px;
+}
+
+.box2 {
+    height: 170px;
+    width: 250px;
+    background-color: rgb(240,182,136);
+}
+
+
+.non-metals {
+    margin-left: 50px;
+}
+
+.non-metals-heading {
+    margin-bottom: 60px;
+}
+
+.non-metals-item {
+    height: 40px;
+    width: 300px;
+    background-color: chartreuse;
+    margin-bottom: 4px;
+}
+
+.other-non-metals {
+    background-color: rgb(131,194,163);
+}
+
+.halogens {
+    background-color: rgb(118,178,225);
+}
+
+.noble-gases {
+    background-color: rgb(244,147,155)
+}
 
 .groups-heading {
     margin-left: 25px;
