@@ -16,6 +16,7 @@
     height: 30px;
     width: 200px;
     margin: 2px 0px;
+    font-size: 20px;
 }
 
 .alkali-metals {
@@ -81,6 +82,7 @@
     width: 300px;
     background-color: chartreuse;
     margin-bottom: 4px;
+    font-size: 20px;
 }
 
 .other-non-metals {
